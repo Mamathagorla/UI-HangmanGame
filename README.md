@@ -17,8 +17,8 @@ This project was developed using **GitHub Copilot** as an AI coding assistant, h
 ## 🙏 Acknowledgments
 - GitHub Copilot for AI code assistance
 - GFG Workshop on GitHub Copilot for guidance
-
-![Hangman Demo](Hangman-GIF.gif)
+##Demo
+![Hangman Demo](C:\Users\mamat\Downloads\Hangman-GIF.gif)
 
 
 
