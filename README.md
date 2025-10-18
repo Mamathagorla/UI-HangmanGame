@@ -19,7 +19,7 @@ This project was developed using **GitHub Copilot** as an AI coding assistant, h
 - GFG Workshop on GitHub Copilot for guidance
   
 ##Demo
-[![Hangman Demo](https://github.com/Mamatha gorla/UI-HangmanGame/raw/main/Hangman-GIF.gif)](https://github.com/Mamatha gorla/UI-HangmanGame/raw/main/Hangman-GIF.gif)
+[![Hangman Demo](https://github.com/Mamathagorla/UI-HangmanGame/raw/main/Hangman-GIF.gif)](https://github.com/Mamathagorla/UI-HangmanGame/raw/main/Hangman-GIF.gif)
 
 
 
